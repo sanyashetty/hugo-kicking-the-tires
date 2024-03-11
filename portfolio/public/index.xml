@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sanya&#39;s Practice Site</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:57859/</link>
     <description>Recent content on Sanya&#39;s Practice Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2024 01:10:51 -0400</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2024 01:18:21 -0400</lastBuildDate>
+    <atom:link href="http://localhost:57859/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:57859/resume/</link>
+      <pubDate>Mon, 11 Mar 2024 01:18:21 -0400</pubDate>
+      <guid>http://localhost:57859/resume/</guid>
+      <description>Name: Sanya Shetty School: University of Pennsylvania Year: Class of 2025 Major: Computer Science</description>
+    </item>
     <item>
       <title>About</title>
-      <link>https://example.org/about/</link>
+      <link>http://localhost:57859/about/</link>
       <pubDate>Mon, 11 Mar 2024 01:10:51 -0400</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>http://localhost:57859/about/</guid>
       <description>Welcome to my about page.</description>
     </item>
   </channel>
