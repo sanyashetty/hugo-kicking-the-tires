@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sanya's Practice Site</title><link>https://example.org/</link><description>Recent content on Sanya's Practice Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Mar 2024 01:10:51 -0400</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://example.org/about/</link><pubDate>Mon, 11 Mar 2024 01:10:51 -0400</pubDate><guid>https://example.org/about/</guid><description>Welcome to my about page.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanya&#39;s Practice Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Sanya&#39;s Practice Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
